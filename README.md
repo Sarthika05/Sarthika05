@@ -9,6 +9,7 @@ I enjoy working with data and exploring how it can be transformed into meaningfu
 📊 Power BI – Dashboards, charts, slicers, KPI cards, and business reporting
 🗄️ MySQL – Queries, filtering, sorting, joins, and basic reporting
 📈 Microsoft Excel – Formulas, Pivot Tables, charts, data cleaning, and reporting
+
 📂 What You'll Find Here
 
 This GitHub repository is a collection of my analytics projects, dashboards, practice work, and learning journey. My projects focus on applying technical skills to practical business problems and presenting data in a simple, meaningful way.
